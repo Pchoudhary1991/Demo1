@@ -1,1 +1,2 @@
-print('hello python program')
+print('hello python program');
+print('hello diana');
